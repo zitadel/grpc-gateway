@@ -9,7 +9,7 @@
   "license": "SEE LICENSE",
   "devDependencies": {
     "bower": "^1.7.9",
-    "bower-config": "^0.6.2",
+    "bower-config": "^1.4.3",
     "bower-logger": "^0.2.2",
     "configstore": "^4.0.0",
     "gulp": "^3.9.1",
